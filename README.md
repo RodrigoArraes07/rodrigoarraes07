@@ -4,11 +4,19 @@
 Eu tenho 18 anos, sou de Araripina-PE, ingressei recentemente na área de tecnologia e atualmente estou cursando Engenharia de Software na Jala University que é uma faculdade americana que foca na formação de profissionais de alto nível, com uma matodologia voltada para o desenvolvimento de projetos. Estou buscando me aprimorar e aprender cada vez mais. Atualmente estou buscando mais conhecimento para poder me capacitar e contruir um bom portfólio, e buscar um estágio na área.
 
 ## Conecte-se comigo 🔗🌐
-<div align="center"> 
-  <a href="https://www.instagram.com/rodrigoarraes7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/761199368685486080" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rodrigo.arraes.j@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hhttps://www.linkedin.com/in/rodrigocostadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://www.instagram.com/rodrigoarraes7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:rodrigo.arraes.j@gmail.com@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="hhttps://www.linkedin.com/in/rodrigocostadev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/761199368685486080" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ## GitHub Stats 📊👨🏻‍💻
