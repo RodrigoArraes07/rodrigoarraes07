@@ -12,7 +12,7 @@ Eu tenho 18 anos, sou de Araripina-PE, ingressei recentemente na área de tecnol
 </div>
 
 ## GitHub Stats 📊👨🏻‍💻
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoArraes07&theme=radical&bg_color=141321&border_color=30A3DC&show_icons=true&icon_color=f8d847&title_color=fabd2f&text_color=a9fef7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoArraes07&theme=radical&bg_color=141321&border_color=30A3DC&show_icons=true&icon_color=f8d847&title_color=fabd2f&text_color=a9fef7&include_all_commits=true&locale=pt-br)
 
 ## Habilidades 💻 🧠
 <div align="center" style="display: inline_bloc"><br>
