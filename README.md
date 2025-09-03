@@ -26,3 +26,8 @@ Eu tenho 18 anos, sou de Araripina-PE, ingressei recentemente na área de tecnol
   <img align="center" alt="Rodrigo-AWS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Rodrigo-Linux" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
+
+--- 
+<img src="https://raw.githubusercontent.com/RodrigoArraes07/RodrigoArraes07/output/snake.svg" alt="Snake animation" />
+
+###
