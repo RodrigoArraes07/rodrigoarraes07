@@ -1,7 +1,7 @@
 # Olá, eu sou Rodrigo Arraes👋🏼
 
 ## Sobre mim🧑🏻‍🎓
-Eu tenho 18 anos, sou de Araripina-PE, ingressei recentemente na área de tecnologia e atualmente estou cursando Engenharia de Software na Jala University que é uma faculdade americana que foca na formação de profissionais de alto nível, com uma matodologia voltada para o desenvolvimento de projetos. Estou buscando me aprimorar e aprender cada vez mais. Atualmente estou buscando mais conhecimento para poder me capacitar e contruir um bom portfólio, e buscar um estágio na área.
+Eu tenho 19 anos, sou de Araripina-PE, ingressei recentemente na área de tecnologia e atualmente estou cursando Engenharia de Software na Jala University que é uma faculdade americana que foca na formação de profissionais de alto nível, com uma matodologia voltada para o desenvolvimento de projetos. Estou buscando me aprimorar e aprender cada vez mais. Atualmente estou buscando mais conhecimento para poder me capacitar e contruir um bom portfólio, e buscar um estágio na área.
 
 ## Conecte-se comigo 🔗🌐
 <div align="center">
